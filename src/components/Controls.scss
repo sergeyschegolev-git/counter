@@ -1,0 +1,10 @@
+.controls-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  button {
+    width: 100px;
+    margin-bottom: 12px;
+  }
+}
